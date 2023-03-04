@@ -1,0 +1,19 @@
+{
+  "name": "productivitytools.learning.node.date",
+  "version": "1.0.0",
+  "description": "This package returns date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProductivityTools-Learning/ProductivityTools.Learning.Node.Date.git"
+  },
+  "author": "Pawel Wujczyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProductivityTools-Learning/ProductivityTools.Learning.Node.Date/issues"
+  },
+  "homepage": "https://github.com/ProductivityTools-Learning/ProductivityTools.Learning.Node.Date#readme"
+}
