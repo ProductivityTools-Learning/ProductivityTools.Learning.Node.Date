@@ -14,3 +14,10 @@
 
 I am learning how to push packages to repository
 <!--more-->
+
+This modudule returns date.
+
+
+```
+yarn add productivitytools.learning.node.date
+```
